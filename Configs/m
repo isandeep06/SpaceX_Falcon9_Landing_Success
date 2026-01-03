@@ -1,1 +1,11 @@
-fg
+requests
+numpy
+pandas
+beautifulsoup4
+matplotlib
+seaborn
+scikit-learn
+prettytable
+sqlalchemy
+joblib
+streamlit
