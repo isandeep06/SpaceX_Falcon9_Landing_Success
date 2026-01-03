@@ -1,4 +1,17 @@
-# 🚀 SpaceX Falcon 9 First Stage Landing Prediction
+<h1 align="center">🚀 SpaceX Falcon 9 Landing Prediction - Notebooks + ML</h1>
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Made%20with-Python-blue?logo=python"></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-150458?logo=pandas"></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Framework-Scikit--learn-orange?logo=scikitlearn"></a>
+  <a href="https://xgboost.readthedocs.io/"><img src="https://img.shields.io/badge/Model-XGBoost-2b6cb0"></a>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/UI-Streamlit-ff4b4b?logo=streamlit"></a>
+  <img src="https://img.shields.io/badge/Status-Completed-success">
+</p>
+</p>
+
+> 🧠 Predict the landing success of Falcon 9 first stages using SpaceX API + Wikipedia data, full E2E notebooks, and a Streamlit scoring UI.
+
 This project aims to predict whether the Falcon 9 rocket's first stage will land successfully after launch. Using data from SpaceX's API and Wikipedia, we analyze historical launch data to build a classification model that can determine landing outcomes.
 
 ## 🎯 Objective
@@ -194,4 +207,23 @@ SQL queries help us ask business questions before modeling.
 └── README.md                      # Project documentation
 
 ```
+## 👨‍💻 Author
+
+**Sandeep Maurya**
+
+📧 [isandeeep06@gmail.com](mailto:isandeeep06@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sandeepmaurya-datascientist)
+🌐 [Portfolio](https://isandeep06.github.io/)
+
+---
+
+## 🌟 Support
+
+If this project helped you:
+
+⭐ Star this repo  
+📢 Share it with others  
+💬 Open an issue for suggestions or improvements
+
+---
 
